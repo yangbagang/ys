@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ys.iml" filepath="$PROJECT_DIR$/.idea/modules/ys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ys_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ys_integrationTest.iml" group="ys" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ys_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ys_main.iml" group="ys" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ys_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ys_test.iml" group="ys" />
+    </modules>
+  </component>
+</project>
